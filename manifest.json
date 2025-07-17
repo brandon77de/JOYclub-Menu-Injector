@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+  "name": "JOYclub Menu Injector",
+  "version": "1.0",
+  "description": "Fügt eigene Menüpunkte in das JOYclub-Menü ein und erlaubt das Ausblenden bestehender Punkte.",
+  "permissions": ["storage"],
+  "host_permissions": ["https://www.joyclub.de/*"],
+  "action": {
+    "default_popup": "options.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.joyclub.de/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "options_page": "options.html"
+}
