@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="48" height="48" alt="JOYclub Menu Injector" />
+  <img src="assets/icon.png" width="96" height="96" alt="JOYclub Menu Injector" />
 </p>
 
 # JOYclub Menu Injector
@@ -39,7 +39,9 @@ joyclub-menu-injector/
 ├── options.html          # Einstellungsseite der Erweiterung
 ├── options.js            # Logik der Einstellungsseite
 ```
-
+<p align="center">
+  <img src="assets/screenshot.png" height="96" alt="JOYclub Menu Injector Options" />
+</p>
 ## 📝 Lizenz
 
 MIT License – kostenlos für private und kommerzielle Nutzung.
