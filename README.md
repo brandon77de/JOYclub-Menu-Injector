@@ -15,10 +15,7 @@
 
 ## ⚙️ Installation
 
-1. Repository herunterladen oder klonen:
-   ```bash
-   git clone https://github.com/dein-benutzername/joyclub-menu-injector.git
-   ```
+1. Repository herunterladen
 
 2. In Chrome öffnen:
    - `chrome://extensions/` aufrufen
