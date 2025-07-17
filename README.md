@@ -34,6 +34,7 @@
 joyclub-menu-injector/
 ├── manifest.json         # Chrome-Erweiterungs-Konfiguration
 ├── content.js            # Fügt Menüänderungen auf der Seite ein
+├── icon.png              # Icon
 ├── options.html          # Einstellungsseite der Erweiterung
 ├── options.js            # Logik der Einstellungsseite
 ```
