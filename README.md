@@ -1,6 +1,5 @@
-<img src="icon.png" width="48" height="48" alt="JOYclub Menu Injector Icon" style="vertical-align: middle;"/> <span style="font-size: 2em; vertical-align: middle;"><strong>JOYclub Menu Injector</strong></span>
-
-
+<img src="icon.png" width="48" height="48" alt="JOYclub Menu Injector Icon" style="vertical-align: middle; margin-right: 12px;" /> 
+<span style="font-size: 2.4em; vertical-align: middle;"><strong>JOYclub Menu Injector</strong></span>
 
 
 **JOYclub Menu Injector** ist eine Chrome-Erweiterung, mit der du das Navigationsmenü auf [joyclub.de](https://www.joyclub.de) individuell anpassen kannst.
