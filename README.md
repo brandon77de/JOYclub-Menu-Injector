@@ -40,7 +40,7 @@ joyclub-menu-injector/
 ├── options.js            # Logik der Einstellungsseite
 ```
 <p align="center">
-  <img src="assets/screenshot.png" height="96" width="100%" alt="JOYclub Menu Injector Options" />
+  <img src="assets/screenshot.png" width="100%" alt="JOYclub Menu Injector Options" />
 </p>
 ## 📝 Lizenz
 
