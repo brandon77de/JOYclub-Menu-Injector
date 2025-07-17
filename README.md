@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="48" height="48" alt="JOYclub Menu Injector Icon" />
+  <img src="icon.png" width="48" height="48" alt="JOYclub Menu Injector" />
 </p>
 
 # JOYclub Menu Injector
