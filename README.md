@@ -1,7 +1,5 @@
-<div style="display: flex; align-items: center; gap: 16px;">
-  <img src="icon.png" width="96" height="96" alt="JOYclub Menu Injector Icon" />
-  <h1 style="margin: 0;">JOYclub Menu Injector</h1>
-</div>
+<img src="icon.png" width="48" height="48" alt="JOYclub Menu Injector Icon" style="vertical-align: middle;"/> <span style="font-size: 2em; vertical-align: middle;"><strong>JOYclub Menu Injector</strong></span>
+
 
 
 
