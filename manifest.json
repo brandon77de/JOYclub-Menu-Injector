@@ -6,7 +6,13 @@
   "permissions": ["storage"],
   "host_permissions": ["https://www.joyclub.de/*"],
   "action": {
-    "default_popup": "options.html"
+    "default_popup": "options.html",
+    "default_icon": {
+      "48": "icon.png"
+    }
+  },
+  "icons": {
+    "48": "icon.png"
   },
   "content_scripts": [
     {
